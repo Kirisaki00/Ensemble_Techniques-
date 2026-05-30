@@ -203,20 +203,6 @@ By completing these projects, you will gain hands-on experience with:
 
 ---
 
-# 🤝 Contributions
 
-Contributions, improvements, and suggestions are welcome.
-
-Feel free to fork the repository and submit a pull request.
-
----
-
-# ⭐ Support
-
-If you found this repository useful, consider giving it a ⭐ on GitHub.
-
-It helps others discover the project and supports future machine learning content.
-
----
-
-### Made with ❤️ and Machine Learning
+# Author
+Anupam Singh
